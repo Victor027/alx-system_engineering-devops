@@ -1,2 +1,1 @@
-displaying hello world
-an hello file
+displaying the content of two files
